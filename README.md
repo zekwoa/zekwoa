@@ -13,6 +13,9 @@
 
 </p> 
 
+<br><br><br><br>
+
+
 ## 🌱 Current Focus
 
 I am currently diving deep into data analyst. I'm always eager to learn and stay up-to-date with the latest developments in the tech world.
@@ -44,7 +47,7 @@ I'm open to collaboration, networking, and discussions. Feel free to connect wit
 <a href="https://www.linkedin.com/in/mahmoud-zaki-2b8150243/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Zaki-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/mahmoud1zaki" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Zaki-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekwoa&yshow_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
