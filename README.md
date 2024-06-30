@@ -51,6 +51,6 @@ I'm open to collaboration, networking, and discussions. Feel free to connect wit
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekwoa&yshow_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=zekwoa&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=zekwoa&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=&style=for-the-badge">
 </a>
