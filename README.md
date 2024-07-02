@@ -25,18 +25,23 @@ I am currently diving deep into data analyst. I'm always eager to learn and stay
 
 ## 🔧 Skills
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
 ![Googlesheets](https://img.shields.io/badge/-Googlesheets-05122A?style=flat&logo=Googlesheets)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
 ![MicrosoftExcel](https://img.shields.io/badge/-MicrosoftExcel-05122A?style=flat&logo=MicrosoftExcel)&nbsp;
 ![IBM SPSS](https://img.shields.io/badge/-IBMSPSS-05122A?style=flat&logo=IBMSPSS)&nbsp;
 ![Minitab](https://img.shields.io/badge/-Minitab-05122A?style=flat&logo=Minitab)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C)&nbsp;
+![DataBase](https://img.shields.io/badge/-DataBase-05122A?style=flat&logo=DataBase)&nbsp;
+
+
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
